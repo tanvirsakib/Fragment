@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <string name="sakib">
+        \nName : Sakib
+        \nID : 1603110201231
+    </string>
+
+    <string name="mishkat">
+        \nName : Mishkat
+        \nID : 1603110201231
+    </string>
+
+</resources>
